@@ -1,0 +1,10 @@
+{
+  "description": "Browse health areas on a body diagram and record symptoms or concerns for each part, making personal health tracking simple on mobile.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
